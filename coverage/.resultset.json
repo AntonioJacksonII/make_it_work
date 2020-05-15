@@ -242,12 +242,32 @@
         "lines": [
           1,
           1,
+          null,
+          1,
           null
         ]
       },
       "/Users/antoniojackson/turing/2mod/challenges/make_it_work/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/antoniojackson/turing/2mod/challenges/make_it_work/spec/features/project_show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -361,11 +381,12 @@
           null
         ]
       },
-      "/Users/antoniojackson/turing/2mod/challenges/make_it_work/app/controllers/projects_controller.rb": {
+      "/Users/antoniojackson/turing/2mod/challenges/make_it_work/app/controllers/contestants_controller.rb": {
         "lines": [
           1,
+          null,
           1,
-          1,
+          2,
           null,
           null
         ]
@@ -375,8 +396,17 @@
           1,
           null
         ]
+      },
+      "/Users/antoniojackson/turing/2mod/challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1589556273
+    "timestamp": 1589558121
   }
 }
