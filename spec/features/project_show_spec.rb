@@ -7,8 +7,8 @@ describe "Project Show Page" do
 
     visit "/projects/#{news_chic.id}"
 
-    expect(page).to have_content("Project: News Chic")
+    expect(page).to have_content("News Chic")
     expect(page).to have_content("Material: Newspaper")
-    expect(page).to have_content("Challenge: Recycled Material")
+    expect(page).to have_content("Challenge Theme: Recycled Material")
   end
 end
