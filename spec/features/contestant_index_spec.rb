@@ -24,6 +24,6 @@ describe "Contestant Index Page" do
 
     visit "/contestants"
     expect(page).to have_content("Projects: News Chic")
-    expect(page).to have_content("Projects: News Chic Upholstery Tuxedo")
+    expect(page).to have_content("Projects: News Chic, Upholstery Tuxedo")
   end
 end
